@@ -213,7 +213,7 @@ This project is open source. Feel free to modify and distribute.
 
 ## Author
 
-Created for Arduino Uno Rev3 with educational and practical applications in mind.
+Created for Arduino Uno Rev3 with educational and practical applications in mind. 
 
 ## Version History
 
